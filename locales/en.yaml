@@ -1,0 +1,36 @@
+help: |
+  <b>🎯 quiksBot Features:</b>
+  <blockquote>– Uploading videos, photos, and audio from social media and platforms without compression.
+  – Converting stickers to GIFs, videos to video messages, and audio to voice messages, and more.
+  – Supporting group chats, Telegram Business, and Inline Mode.</blockquote>
+  ...
+
+start: |
+  🕵️ Hello, FIRST_USERNAME!
+  
+  🤖 I am a multifunctional bot...
+
+  📰 Developer's blog: @CHANNEL_NAME
+
+start_message: 'Type /help to learn about all available features!'
+
+privacy: |
+  🔒 Your privacy in @BOT_USERNAME
+  ...
+
+support_text: '<b>🧑‍💻 Need support? Contact:</b>'
+banned: '<b>❌ You have been banned from the bot!</b>'
+
+commandscope:
+  help: '🎯 Features and commands'
+  privacy: '🔒 Privacy Policy'
+  donate: '☕️ Support the developer'
+
+  settings: '⚙️ Settings'
+  premium: '💎 Premium subscription'
+
+inline:
+  bot: 'Go to the bot'
+  title: '🔗 Paste the link'
+  description: 'I can download videos from TikTok, Instagram, and other platforms'
+  message_text: '👋 Enter «@BOT_USERNAME and paste a link to a video, photo, or audio from TikTok, Instagram, Spotify, or other platforms to download it'
